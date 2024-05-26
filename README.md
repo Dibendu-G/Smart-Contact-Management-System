@@ -95,3 +95,8 @@ smart-contact-management-system/
 │   ├── package.json
 │   └── webpack.config.js
 └── README.md
+
+
+
+**Contributing**
+Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your code follows the existing style guidelines and includes appropriate tests.
